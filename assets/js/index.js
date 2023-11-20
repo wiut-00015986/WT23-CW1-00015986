@@ -1,18 +1,3 @@
-//function to show carousel
-
-function show(id) {
-  document.getElementsByClassName("active").item(0).classList.add("disabled");
-  document.getElementsByClassName("active").item(0).classList.remove("active");
-  document
-    .getElementsByClassName("carousel-item")
-    .item(id)
-    .classList.remove("disabled");
-  document
-    .getElementsByClassName("carousel-item")
-    .item(id)
-    .classList.add("active");
-}
-
 const productList = [
   {
     id: 1,

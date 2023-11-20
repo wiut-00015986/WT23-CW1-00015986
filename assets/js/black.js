@@ -1,29 +1,3 @@
-// let blackHTML = ``;
-
-// //func to show cards list
-
-// function showCards() {
-//   productList.forEach((item) => {
-//     blackHTML += `
-//         <div class="card">
-//                     <img src="assets/img/${item.type}${item.id}.jpg" alt="">
-//                     <div class="card-text">
-//                         <h4>${item.name}</h4>
-//                         <p>${item.price} $</p>
-//                         <p>${item.newprice} $</p>
-
-//                         <a href="#" class="btn">Buy</a>
-//                     </div>
-//                 </div>
-//     `;
-//     docublackt.querySelector("#card-list").innerHTML = blackHTML;
-//   });
-// }
-
-// window.onload = function () {
-//   showCards();
-// };
-
 const productList = [
   {
     id: 1,
