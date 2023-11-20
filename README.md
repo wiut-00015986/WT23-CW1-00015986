@@ -13,4 +13,4 @@ The web-site consists of 7 pages:  <br>
 There are 3 directories in the assets folder: img for images, style for css styles, js for JavaScript documents. Fonts were connected by google fonts, icons with font awesome. 
 
 
-GitHub Pages : 
+Netlify : https://warm-sprite-8f08cd.netlify.app/
