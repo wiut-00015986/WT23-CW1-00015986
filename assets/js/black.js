@@ -28,13 +28,6 @@ const productList = [
     type: "black",
   },
   {
-    id: 5,
-    name: "Converse",
-    price: 85,
-    newprice: 75,
-    type: "black",
-  },
-  {
     id: 6,
     name: "Hoodie",
     price: 49,

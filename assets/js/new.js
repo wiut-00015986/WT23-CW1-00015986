@@ -65,18 +65,6 @@ const productList = [
     price: 55,
     type: "women",
   },
-  {
-    id: 6,
-    name: "NIKE Dunk",
-    price: 140,
-    type: "women",
-  },
-  {
-    id: 7,
-    name: "Hoodie",
-    price: 49,
-    type: "women",
-  },
 ];
 
 let HTML = ``;
